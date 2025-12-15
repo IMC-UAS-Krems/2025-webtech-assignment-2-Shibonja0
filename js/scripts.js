@@ -207,7 +207,7 @@ checkoutForm.addEventListener('submit', (e) => {
     html += `</tbody></table>`;
     html += `<hr><table><tbody>`;
     html += `<tr><td>Subtotal</td><td style="text-align:right">$${subtotal.toFixed(2)}</td></tr>`;
-    html += `<tr><td>Discount${DISCOUNT_RATE>0?` (${(DISCOUNT_RATE*100).toFixed(0)}%)`:''}</td><td style="text-align:right">-$${discount.toFixed(2)}</td></tr>`;
+    html += `<tr><td>Discount${DISCOUNT_RATE > 0 ? ` (${(DISCOUNT_RATE * 100).toFixed(0)}%)` : ''}</td><td style="text-align:right">-$${discount.toFixed(2)}</td></tr>`;
     html += `<tr><td>Tax</td><td style="text-align:right">$${tax.toFixed(2)}</td></tr>`;
     html += `<tr><th>Total</th><th style="text-align:right">$${total.toFixed(2)}</th></tr>`;
     html += `</tbody></table>`;

@@ -59,13 +59,13 @@
         "price": 20,
         "image": "img/product10.jpg"
     },
-     {
+    {
         "id": 11,
         "name": "Cheesecake",
         "price": 11,
         "image": "img/product11.jpg"
     },
-     {
+    {
         "id": 12,
         "name": "Chocolate Cake",
         "price": 13,
