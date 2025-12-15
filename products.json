@@ -1,51 +1,74 @@
 [
     {
         "id": 1,
-        "name":" Salad Bowl",
+        "name": "Salad Bowl",
         "price": 12,
-        "image": "image/product1.png"
+        "image": "img/product1.jpg"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
-        "image": "image/2.png"
+        "name": "Chicken Bowl",
+        "price": 22,
+        "image": "img/product2.jpg"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
-        "image": "image/3.png"
+        "name": "Avocado Toast",
+        "price": 36,
+        "image": "img/product3.jpg"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/4.png"
+        "name": "Hamburger with Fries",
+        "price": 45,
+        "image": "img/product4.jpg"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
-        "image": "image/5.png"
+        "name": "Pizza Margherita",
+        "price": 20,
+        "image": "img/product5.jpg"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/6.png"
+        "name": "Pad Thai Noodles",
+        "price": 16,
+        "image": "img/product6.jpg"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/7.png"
+        "name": "Squash and Potatoes",
+        "price": 30,
+        "image": "img/product7.jpg"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
-        "image": "image/8.png"
+        "name": "Tacos",
+        "price": 14,
+        "image": "img/product8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Spinach Pasta",
+        "price": 12,
+        "image": "img/product9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Chicken Sandwich",
+        "price": 20,
+        "image": "img/product10.jpg"
+    },
+     {
+        "id": 11,
+        "name": "Cheesecake",
+        "price": 11,
+        "image": "img/product11.jpg"
+    },
+     {
+        "id": 12,
+        "name": "Chocolate Cake",
+        "price": 13,
+        "image": "img/product12.jpg"
     }
-
 ]
